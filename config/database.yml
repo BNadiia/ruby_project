@@ -24,4 +24,6 @@ production:
   adapter: postgresql
   database: postgresql-globular-43028
   pool: 5
+  username: kgwrbchmkhhzit
+  password: b95bb2f4fe3dd841603a13bf5090de0a7ec2026fdf31ab293263f017fbd96356
   timeout: 5000
