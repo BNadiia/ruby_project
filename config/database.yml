@@ -22,5 +22,5 @@ test:
 
 production:
   adapter: postgresql
-  url: postgres://kgwrbchmkhhzit:b95bb2f4fe3dd841603a13bf5090de0a7ec2026fdf31ab293263f017fbd96356@ec2-54-247-96-169.eu-west-1.compute.amazonaws.com:5432/ddblv4d806hpqf
+  url: postgresql://kgwrbchmkhhzit:b95bb2f4fe3dd841603a13bf5090de0a7ec2026fdf31ab293263f017fbd96356@ec2-54-247-96-169.eu-west-1.compute.amazonaws.com:5432/ddblv4d806hpqf
   timeout: 5000
