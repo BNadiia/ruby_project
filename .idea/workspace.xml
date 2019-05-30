@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="193aad93-1b9c-48d0-91e7-270724308c08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/line_items/_line_item.text.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/products/who_bought.atom.builder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/i18n.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/locales/es.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FurnitureStore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FurnitureStore.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/products_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/products_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/store_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/store_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/product.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/product.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/carts/_cart.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/carts/_cart.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/line_items/_line_item.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/line_items/_line_item.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/line_items/create.js.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/line_items/create.js.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/store/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/store/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environment.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environment.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/development.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/locales/en.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/locales/en.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -110,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/app/mailers/order_mailer.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="950">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -710,7 +687,7 @@
       <workItem from="1559155869918" duration="10741000" />
       <workItem from="1559201426079" duration="5751000" />
       <workItem from="1559211714357" duration="6795000" />
-      <workItem from="1559239199611" duration="583000" />
+      <workItem from="1559239199611" duration="1639000" />
     </task>
     <servers />
   </component>
@@ -747,7 +724,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97178000" />
+    <option name="totallyTimeSpent" value="98234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -760,6 +737,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="3840" height="2090" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49945652" visible="true" weight="0.13304949" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1105,7 +1083,7 @@
     <entry file="file://$PROJECT_DIR$/app/mailers/order_mailer.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
