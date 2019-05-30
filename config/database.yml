@@ -27,3 +27,5 @@ production:
   username: kgwrbchmkhhzit
   password: b95bb2f4fe3dd841603a13bf5090de0a7ec2026fdf31ab293263f017fbd96356
   timeout: 5000
+  port: 5432
+  host: ec2-54-247-96-169.eu-west-1.compute.amazonaws.com
